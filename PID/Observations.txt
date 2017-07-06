@@ -1,0 +1,6 @@
+Increasing ki has a clear effect on settling time - decreases
+changing kp slightly reduces settling time
+large kp leads to unstability
+kd seems to have minir effects when small. Increasing kd beyond a reasonably moderate value causes unstability
+
+Try increasing PID_max as well
